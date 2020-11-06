@@ -219,7 +219,6 @@ def image_patches_dataset(img_list, label_df):
     return ID, data, labels
 
 
-
 def main():
 
 ## check system and version
