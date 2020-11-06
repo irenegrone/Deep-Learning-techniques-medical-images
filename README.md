@@ -8,4 +8,4 @@ This repository contains the report and code files as submitted for the final pr
 
 <b>Subject</b>: 
   deep learning, computer vision, CNN, Python
-<\p>
+</p>
