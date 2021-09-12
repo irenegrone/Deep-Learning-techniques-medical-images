@@ -12,4 +12,10 @@ It is my first work on deep learning and computer vision and a second improved v
   
 <b>Subject</b>: 
   Computer vision, medical images, convolutional neural network, binary classification.
+  
+<b>Data sources</b>:
+  The medical images used for this project are part of the collection “Soft-tissue-Sarcoma” from The Cancer Image Archive (TCIA) (Clark et al., 2013), and the study “A 
+radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities” (Vallières, et al. 2015). The Cancer 
+Imaging Archive http://doi.org/10.7937/K9/TCIA.2015.7GO2GSKS 
+See Appendix A of the Project report for how to download the DICOM dataset and clinical data using the two tcia_manifest files in the data_sources/tcia_manifest folder.
 </p>
