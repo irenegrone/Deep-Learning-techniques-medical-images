@@ -1,7 +1,7 @@
 # Deep-Learning-techniques-medical-images
 
-This repository contains the report and code files as submitted for the final project of the MSc Data Science at Birkbeck University of London, September 2020.
-It is my first work on deep learning and computer vision and a second improved version is under development.
+This repository contains the report and code files as submitted for the final project of the MSc Data Science at Birkbeck University of London, September 2020.<br>
+It is my first work on deep learning and computer vision and a second improved version of the project is under development.
 
 <p>
 <b>Title</b>: 
